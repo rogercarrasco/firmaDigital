@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="889923"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="shiporder.xsd">
+  <orderperson>John Smith</orderperson>
+  <shipto>
+    <name>Nola Acosta</name>
+    <address>La Paz 123</address>    
+  </shipto>
+  <item>
+    <title>Emilia Bravo</title>
+    <note>Barranco 23</note>    
+  </item>
+</shiporder> 
